@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* color: white; */
+    text-decoration: none;
+    /* border-style: solid; */
+
+}
+.nav-title{
+    display: flex;
+    /* border-style: solid; */
+    width: 20rem;
+    margin: auto;
+    justify-content: center;
+    justify-content: space-between;
+    font-size:  1.5rem;
+    
+}
+.hero{
+    background-color:#D1B093;
+    height: auto;
+}
+li a{
+    color:black;
+}
+.img{
+    height: 20rem;
+    width: 20rem;
+    margin:32rem;
+    margin-top:7rem;
+    margin-bottom: 0;
+    border-radius: 60rem;
+    
+}
+h1{
+    margin:2rem 32rem ;
+    /* border-style: solid; */
+    /* margin-top: 0; */
+    text-align: center;
+}
+.bio{
+    margin: 2rem 26rem;
+    /* margin-top: 10rem; */
+        margin-bottom: 0rem;
+        width: 32rem;
+        /* border-style: solid; */
+        text-align: center;
+        padding-bottom: 2rem;
+
+}
+
+
+/* hero section ends here */
+
+
+
+#section2{
+    background-color: rgb(102, 32, 32);
+    margin: 0;
+}
+.bio2{
+    padding:2rem 0rem;
+    /* margin: 2rem; */
+    
+}
+.cardP{
+    background-color: #8C5A3A;
+    padding: 5rem;
+    
+    /* justify-content:center; */
+    justify-content: space-between;
+    /* text-align: center;*/
+    
+}
+.cards{
+    background-color: #8C5A3A;
+    padding: 5rem;
+    display:flex ;
+    /* justify-content:center; */
+    justify-content: space-between;
+    /* text-align: center;*/
+    
+}
+.card1{
+    border-style: solid;
+    border-color: white;
+    height: 22rem;
+    padding: 1rem;
+    width: 18rem;
+}
+.card2{
+    border-style: solid;
+    border-color: white;
+    height: 22rem;
+    width: 18rem;
+    padding: 1rem;
+
+}
+.card3{
+    border-style: solid;
+    border-color: white;
+    height: 22rem;
+    width: 18rem;
+    padding: 1rem;
+
+}
+#section3{
+    background-color: #4A4A4A;
+    margin: 0;
+    padding-top:2rem;
+}
+h4{
+    padding-top: 4rem ;
+}
+#insta{
+    height: 2rem;
+    width: 2rem;
+    padding-bottom: 2rem;
+
+}
+
